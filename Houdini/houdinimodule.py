@@ -14,8 +14,14 @@ shelf tool:
 """
 
 
-# import hou
+import hou
+
+
+def create_geo(parent='/obj'):
+    geo = hou.node(parent).createNode('geo')
+
+    return geo
 
 
 def main():
-    print('OKasdcf')
+    create_geo()
