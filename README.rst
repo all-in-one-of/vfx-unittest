@@ -1,6 +1,9 @@
 ==============================================================
-Template Modules for Unittesting Modules for VFX Software
+Template Modules for Unittesting for VFX
 ==============================================================
 
-**Houdini
-**Maya
+Python version is 2.7 currently. Templates modules demonstrate unit testing basics for in GUI testing python modules.
+
+**Houdini**
+
+**Maya**
